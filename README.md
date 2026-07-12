@@ -19,12 +19,12 @@ The novelty of this project lies in combining self-adaptive timetable optimizati
 - Department-wise and section-wise timetable generation
 
 ## Project Structure
- # Main execution file
-              # Dataset (faculty, courses, rooms, sections)
-              # TLBO-inspired optimization
-              # Fitness evaluation
-         # Constraint validation
-        # Timetable repair module
+- Main execution file
+- Dataset (faculty, courses, rooms, sections)
+- TLBO-inspired optimization
+- Fitness evaluation
+- Constraint validation
+- Timetable repair module
 
 ## Technologies Used
 - Python 3.x
