@@ -1,4 +1,4 @@
-"""Discrete TLBO scheduler with adaptive mutation and constrained self-healing."""
+"""Discrete TLBO scheduler with adaptive mutation and constrained self-healing.""" 
 from dataclasses import dataclass
 from collections import Counter, defaultdict
 import random
