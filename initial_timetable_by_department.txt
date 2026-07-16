@@ -1,0 +1,170 @@
+UNIVERSITY TIMETABLE — DEPARTMENT / SECTION VIEW
+========================================================================================================================================
+
+DEPARTMENT: BBA
+========================================================================================================================================
+SECTION: AE
+----------------------------------------------------------------------------------------------------------------------------------------
+Period  Course                    Day         Faculty           Room          Time         Hours  Priority   Subject ID   Type    
+----------------------------------------------------------------------------------------------------------------------------------------
+P1      Marketing Basics          Monday      Mr. Rahul         SR-02-03      09:00-10:00  1      Medium     BBA120       Theory  
+P2      Financial Accounting      Monday      Dr. Nikhil        SR-02-04      10:00-11:00  1      High       BBA102       Theory  
+P4      Business Economics        Monday      Dr. Nikhil        SR-02-03      14:00-15:00  1      High       BBA210       Theory  
+P1      Principles of Management  Tuesday     Mr. Rahul         SR-04-01      09:00-10:00  1      High       BBA101       Theory  
+P5      Business Economics        Tuesday     Dr. Nikhil        V-03-03       15:00-16:00  1      High       BBA210       Theory  
+P1      Principles of Management  Wednesday   Mrs. Kavya        V-04-01       09:00-10:00  1      High       BBA101       Theory  
+P4      Physics Lab               Wednesday   Dr. Ananya        X-PHY-2       14:00-16:00  2      High       PHYL101      Lab     
+P1      Chemistry Lab             Thursday    Mr. Vivek         X-CHE-1       09:00-11:00  2      High       CHEML101     Lab     
+P1      Computer Lab              Friday      Dr. Rohan         X-COM-1       09:00-11:00  2      High       COMPL101     Lab     
+P4      Financial Accounting      Friday      Mrs. Kavya        V-01-04       14:00-15:00  1      High       BBA102       Theory  
+P6      Club Activity             Friday      Student Affairs   Club Area     16:00-17:00  1      Mandatory  CLUB-AE      Club    
+----------------------------------------------------------------------------------------------------------------------------------------
+
+DEPARTMENT: BSC
+========================================================================================================================================
+SECTION: AD
+----------------------------------------------------------------------------------------------------------------------------------------
+Period  Course                    Day         Faculty           Room          Time         Hours  Priority   Subject ID   Type    
+----------------------------------------------------------------------------------------------------------------------------------------
+P1      Organic Chemistry         Monday      Mrs. Kavya        SR-02-01      09:00-10:00  1      High       BSC102       Theory  
+P3      Organic Chemistry         Monday      Mrs. Kavya        SR-03-02      12:00-13:00  1      High       BSC102       Theory  
+P6      Statistics                Monday      Mrs. Kavya        SR-01-04      16:00-17:00  1      High       BSC210       Theory  
+P1      Computer Lab              Tuesday     Mrs. Sneha        X-COM-1       09:00-11:00  2      High       COMPL201     Lab     
+P4      Statistics                Tuesday     Mrs. Kavya        V-03-04       14:00-15:00  1      High       BSC210       Theory  
+P6      Environmental Science     Wednesday   Dr. Meera         V-01-04       16:00-17:00  1      Medium     BSC130       Theory  
+P4      Physics Lab               Thursday    Mr. Vivek         X-PHY-3       14:00-16:00  2      High       PHYL201      Lab     
+P6      Applied Physics           Thursday    Mr. Rahul         V-02-01       16:00-17:00  1      High       BSC101       Theory  
+P2      Applied Physics           Friday      Mr. Rahul         V-03-03       10:00-11:00  1      High       BSC101       Theory  
+P4      Chemistry Lab             Friday      Mr. Vivek         X-CHE-3       14:00-16:00  2      High       CHEML201     Lab     
+P6      Club Activity             Friday      Student Affairs   Club Area     16:00-17:00  1      Mandatory  CLUB-AD      Club    
+----------------------------------------------------------------------------------------------------------------------------------------
+
+DEPARTMENT: CIVIL
+========================================================================================================================================
+SECTION: AH
+----------------------------------------------------------------------------------------------------------------------------------------
+Period  Course                    Day         Faculty           Room          Time         Hours  Priority   Subject ID   Type    
+----------------------------------------------------------------------------------------------------------------------------------------
+P3      Structural Analysis       Monday      Mrs. Priya        SR-01-01      12:00-13:00  1      High       CIV301       Theory  
+P6      Geotechnical Engineering  Monday      Mr. Arjun         SR-04-02      16:00-17:00  1      High       CIV320       Theory  
+P1      Computer Lab              Tuesday     Dr. Rohan         X-COM-2       09:00-11:00  2      High       COMPL501     Lab     
+P5      Structural Analysis       Tuesday     Mr. Arjun         SR-02-01      15:00-16:00  1      High       CIV301       Theory  
+P1      Surveying                 Wednesday   Dr. Ananya        V-03-02       09:00-10:00  1      High       CIV210       Theory  
+P4      Chemistry Lab             Wednesday   Mr. Vivek         X-CHE-3       14:00-16:00  2      High       CHEML501     Lab     
+P1      Physics Lab               Thursday    Mr. Vivek         X-PHY-1       09:00-11:00  2      High       PHYL501      Lab     
+P6      Geotechnical Engineering  Thursday    Mr. Arjun         SR-01-01      16:00-17:00  1      High       CIV320       Theory  
+P4      Surveying                 Friday      Mrs. Priya        SR-04-02      14:00-15:00  1      High       CIV210       Theory  
+P5      Construction Management   Friday      Mr. Arjun         SR-03-01      15:00-16:00  1      Medium     CIV330       Theory  
+P6      Club Activity             Friday      Student Affairs   Club Area     16:00-17:00  1      Mandatory  CLUB-AH      Club    
+----------------------------------------------------------------------------------------------------------------------------------------
+
+DEPARTMENT: CSE
+========================================================================================================================================
+SECTION: AA
+----------------------------------------------------------------------------------------------------------------------------------------
+Period  Course                    Day         Faculty           Room          Time         Hours  Priority   Subject ID   Type    
+----------------------------------------------------------------------------------------------------------------------------------------
+P6      Data Structures           Monday      Mrs. Harsha       SR-04-03      16:00-17:00  1      High       CSE201       Theory  
+P1      Web Development           Tuesday     Mrs. Harsha       V-02-03       09:00-10:00  1      Medium     CSE150       Theory  
+P6      Discrete Mathematics      Tuesday     Dr. Meera         SR-03-02      16:00-17:00  1      High       MAT110       Theory  
+P1      Chemistry Lab             Wednesday   Mrs. Sneha        X-CHE-1       09:00-11:00  2      High       CHEML101     Lab     
+P1      Discrete Mathematics      Thursday    Mr. Aditya        V-04-01       09:00-10:00  1      High       MAT110       Theory  
+P2      Programming Fundamentals  Thursday    Mr. Aditya        V-01-03       10:00-11:00  1      High       CSE101       Theory  
+P3      Programming Fundamentals  Thursday    Mr. Aditya        SR-04-03      12:00-13:00  1      High       CSE101       Theory  
+P5      Physics Lab               Thursday    Dr. Ananya        X-PHY-2       15:00-17:00  2      High       PHYL101      Lab     
+P2      Data Structures           Friday      Dr. Meera         V-02-04       10:00-11:00  1      High       CSE201       Theory  
+P4      Computer Lab              Friday      Dr. Rohan         X-COM-3       14:00-16:00  2      High       COMPL101     Lab     
+P6      Club Activity             Friday      Student Affairs   Club Area     16:00-17:00  1      Mandatory  CLUB-AA      Club    
+----------------------------------------------------------------------------------------------------------------------------------------
+SECTION: AB
+----------------------------------------------------------------------------------------------------------------------------------------
+Period  Course                    Day         Faculty           Room          Time         Hours  Priority   Subject ID   Type    
+----------------------------------------------------------------------------------------------------------------------------------------
+P5      Physics Lab               Monday      Mr. Vivek         X-PHY-1       15:00-17:00  2      High       PHYL301      Lab     
+P3      Programming Fundamentals  Tuesday     Mrs. Harsha       SR-02-04      12:00-13:00  1      High       CSE101       Theory  
+P5      Chemistry Lab             Tuesday     Mrs. Sneha        X-CHE-3       15:00-17:00  2      High       CHEML301     Lab     
+P1      Computer Lab              Wednesday   Mrs. Sneha        X-COM-2       09:00-11:00  2      High       COMPL301     Lab     
+P3      Programming Fundamentals  Wednesday   Mrs. Harsha       SR-01-03      12:00-13:00  1      High       CSE101       Theory  
+P5      Data Structures           Wednesday   Dr. Meera         SR-01-01      15:00-16:00  1      High       CSE201       Theory  
+P1      Discrete Mathematics      Thursday    Dr. Meera         SR-04-03      09:00-10:00  1      High       MAT110       Theory  
+P5      Web Development           Thursday    Mrs. Harsha       SR-02-04      15:00-16:00  1      Medium     CSE150       Theory  
+P6      Data Structures           Thursday    Dr. Meera         SR-01-02      16:00-17:00  1      High       CSE201       Theory  
+P5      Discrete Mathematics      Friday      Mr. Aditya        SR-04-01      15:00-16:00  1      High       MAT110       Theory  
+P6      Club Activity             Friday      Student Affairs   Club Area     16:00-17:00  1      Mandatory  CLUB-AB      Club    
+----------------------------------------------------------------------------------------------------------------------------------------
+
+DEPARTMENT: ECE
+========================================================================================================================================
+SECTION: AC
+----------------------------------------------------------------------------------------------------------------------------------------
+Period  Course                    Day         Faculty           Room          Time         Hours  Priority   Subject ID   Type    
+----------------------------------------------------------------------------------------------------------------------------------------
+P2      Digital Electronics       Wednesday   Mr. Rahul         SR-03-03      10:00-11:00  1      High       ECE201       Theory  
+P3      Circuit Theory            Wednesday   Dr. Meera         V-04-02       12:00-13:00  1      High       ECE101       Theory  
+P4      Physics Lab               Wednesday   Mr. Vivek         X-PHY-1       14:00-16:00  2      High       PHYL101      Lab     
+P1      Computer Lab              Thursday    Mrs. Sneha        X-COM-2       09:00-11:00  2      High       COMPL101     Lab     
+P3      Digital Electronics       Thursday    Dr. Meera         V-01-01       12:00-13:00  1      High       ECE201       Theory  
+P4      Chemistry Lab             Thursday    Mr. Vivek         X-CHE-2       14:00-16:00  2      High       CHEML101     Lab     
+P1      Signals and Systems       Friday      Mr. Rahul         SR-03-04      09:00-10:00  1      High       ECE220       Theory  
+P3      Embedded Systems          Friday      Dr. Meera         V-01-04       12:00-13:00  1      Medium     ECE250       Theory  
+P4      Signals and Systems       Friday      Mr. Rahul         V-04-01       14:00-15:00  1      High       ECE220       Theory  
+P5      Circuit Theory            Friday      Dr. Meera         SR-04-02      15:00-16:00  1      High       ECE101       Theory  
+P6      Club Activity             Friday      Student Affairs   Club Area     16:00-17:00  1      Mandatory  CLUB-AC      Club    
+----------------------------------------------------------------------------------------------------------------------------------------
+
+DEPARTMENT: EEE
+========================================================================================================================================
+SECTION: AF
+----------------------------------------------------------------------------------------------------------------------------------------
+Period  Course                    Day         Faculty           Room          Time         Hours  Priority   Subject ID   Type    
+----------------------------------------------------------------------------------------------------------------------------------------
+P2      Electrical Machines       Monday      Dr. Nikhil        V-03-02       10:00-11:00  1      High       EEE201       Theory  
+P5      Computer Lab              Monday      Mrs. Sneha        X-COM-3       15:00-17:00  2      High       COMPL301     Lab     
+P1      Chemistry Lab             Tuesday     Mrs. Sneha        X-CHE-3       09:00-11:00  2      High       CHEML301     Lab     
+P6      Power Systems             Tuesday     Mr. Arjun         SR-03-04      16:00-17:00  1      High       EEE220       Theory  
+P1      Physics Lab               Wednesday   Mr. Vivek         X-PHY-2       09:00-11:00  2      High       PHYL301      Lab     
+P6      Control Systems           Wednesday   Mrs. Kavya        SR-04-02      16:00-17:00  1      High       EEE230       Theory  
+P3      Control Systems           Thursday    Mr. Arjun         V-03-02       12:00-13:00  1      High       EEE230       Theory  
+P5      Electrical Machines       Thursday    Dr. Nikhil        SR-04-03      15:00-16:00  1      High       EEE201       Theory  
+P6      Power Systems             Thursday    Dr. Nikhil        SR-04-01      16:00-17:00  1      High       EEE220       Theory  
+P4      Engineering Mathematics   Friday      Mrs. Kavya        V-03-04       14:00-15:00  1      Medium     MAT120       Theory  
+P6      Club Activity             Friday      Student Affairs   Club Area     16:00-17:00  1      Mandatory  CLUB-AF      Club    
+----------------------------------------------------------------------------------------------------------------------------------------
+
+DEPARTMENT: MECH
+========================================================================================================================================
+SECTION: AI
+----------------------------------------------------------------------------------------------------------------------------------------
+Period  Course                    Day         Faculty           Room          Time         Hours  Priority   Subject ID   Type    
+----------------------------------------------------------------------------------------------------------------------------------------
+P1      Chemistry Lab             Monday      Mrs. Sneha        X-CHE-3       09:00-11:00  2      High       CHEML301     Lab     
+P4      Fluid Mechanics           Monday      Dr. Ananya        SR-03-02      14:00-15:00  1      High       MEC220       Theory  
+P5      Machine Design            Monday      Mrs. Priya        SR-04-01      15:00-16:00  1      High       MEC310       Theory  
+P5      Computer Lab              Tuesday     Mrs. Sneha        X-COM-1       15:00-17:00  2      High       COMPL301     Lab     
+P2      Thermodynamics            Wednesday   Dr. Ananya        SR-02-02      10:00-11:00  1      High       MEC201       Theory  
+P4      Thermodynamics            Wednesday   Dr. Ananya        V-03-02       14:00-15:00  1      High       MEC201       Theory  
+P6      Fluid Mechanics           Wednesday   Dr. Ananya        V-02-01       16:00-17:00  1      High       MEC220       Theory  
+P6      Manufacturing Process     Thursday    Dr. Ananya        V-04-02       16:00-17:00  1      Medium     MEC230       Theory  
+P1      Machine Design            Friday      Mrs. Priya        SR-04-01      09:00-10:00  1      High       MEC310       Theory  
+P4      Physics Lab               Friday      Dr. Ananya        X-PHY-2       14:00-16:00  2      High       PHYL301      Lab     
+P6      Club Activity             Friday      Student Affairs   Club Area     16:00-17:00  1      Mandatory  CLUB-AI      Club    
+----------------------------------------------------------------------------------------------------------------------------------------
+
+DEPARTMENT: POL
+========================================================================================================================================
+SECTION: AG
+----------------------------------------------------------------------------------------------------------------------------------------
+Period  Course                    Day         Faculty           Room          Time         Hours  Priority   Subject ID   Type    
+----------------------------------------------------------------------------------------------------------------------------------------
+P6      Public Administration     Monday      Dr. Nikhil        V-03-03       16:00-17:00  1      High       POL210       Theory  
+P4      Indian Constitution       Tuesday     Mr. Arjun         V-04-03       14:00-15:00  1      High       POL102       Theory  
+P6      Public Administration     Tuesday     Dr. Nikhil        V-04-01       16:00-17:00  1      High       POL210       Theory  
+P5      Computer Lab              Wednesday   Mrs. Sneha        X-COM-3       15:00-17:00  2      High       COMPL101     Lab     
+P1      Political Theory          Thursday    Mr. Arjun         SR-03-04      09:00-10:00  1      High       POL101       Theory  
+P2      Political Theory          Thursday    Dr. Nikhil        V-01-04       10:00-11:00  1      High       POL101       Theory  
+P3      Indian Constitution       Thursday    Mr. Arjun         SR-02-04      12:00-13:00  1      High       POL102       Theory  
+P1      Chemistry Lab             Friday      Mrs. Sneha        X-CHE-1       09:00-11:00  2      High       CHEML101     Lab     
+P3      International Relations   Friday      Mr. Arjun         V-03-04       12:00-13:00  1      Medium     POL220       Theory  
+P4      Physics Lab               Friday      Mr. Vivek         X-PHY-1       14:00-16:00  2      High       PHYL101      Lab     
+P6      Club Activity             Friday      Student Affairs   Club Area     16:00-17:00  1      Mandatory  CLUB-AG      Club    
+----------------------------------------------------------------------------------------------------------------------------------------
