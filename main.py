@@ -1,4 +1,4 @@
-from data import build_campus, build_sessions  # type: ignore[reportMissingImports]
+from data import build_campus, build_sessions  # type: ignore[reportMissingImports] 
 from scheduler import Timetabler  # type: ignore[reportMissingImports]
 from reports import write_csv, write_grouped_table, print_summary  # type: ignore[reportMissingImports]
 import json
