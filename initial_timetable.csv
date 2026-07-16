@@ -1,0 +1,100 @@
+Section,Day,Period,Course,Faculty,Room,Time,Hours,Priority,SubjectID,Type
+AE,Friday,P1,Computer Lab,Dr. Rohan,X-COM-1,09:00-11:00,2,High,COMPL101,Lab
+AE,Friday,P4,Financial Accounting,Mrs. Kavya,V-01-04,14:00-15:00,1,High,BBA102,Theory
+AE,Friday,P6,Club Activity,Student Affairs,Club Area,16:00-17:00,1,Mandatory,CLUB-AE,Club
+AE,Monday,P1,Marketing Basics,Mr. Rahul,SR-02-03,09:00-10:00,1,Medium,BBA120,Theory
+AE,Monday,P2,Financial Accounting,Dr. Nikhil,SR-02-04,10:00-11:00,1,High,BBA102,Theory
+AE,Monday,P4,Business Economics,Dr. Nikhil,SR-02-03,14:00-15:00,1,High,BBA210,Theory
+AE,Thursday,P1,Chemistry Lab,Mr. Vivek,X-CHE-1,09:00-11:00,2,High,CHEML101,Lab
+AE,Tuesday,P1,Principles of Management,Mr. Rahul,SR-04-01,09:00-10:00,1,High,BBA101,Theory
+AE,Tuesday,P5,Business Economics,Dr. Nikhil,V-03-03,15:00-16:00,1,High,BBA210,Theory
+AE,Wednesday,P1,Principles of Management,Mrs. Kavya,V-04-01,09:00-10:00,1,High,BBA101,Theory
+AE,Wednesday,P4,Physics Lab,Dr. Ananya,X-PHY-2,14:00-16:00,2,High,PHYL101,Lab
+AD,Friday,P2,Applied Physics,Mr. Rahul,V-03-03,10:00-11:00,1,High,BSC101,Theory
+AD,Friday,P4,Chemistry Lab,Mr. Vivek,X-CHE-3,14:00-16:00,2,High,CHEML201,Lab
+AD,Friday,P6,Club Activity,Student Affairs,Club Area,16:00-17:00,1,Mandatory,CLUB-AD,Club
+AD,Monday,P1,Organic Chemistry,Mrs. Kavya,SR-02-01,09:00-10:00,1,High,BSC102,Theory
+AD,Monday,P3,Organic Chemistry,Mrs. Kavya,SR-03-02,12:00-13:00,1,High,BSC102,Theory
+AD,Monday,P6,Statistics,Mrs. Kavya,SR-01-04,16:00-17:00,1,High,BSC210,Theory
+AD,Thursday,P4,Physics Lab,Mr. Vivek,X-PHY-3,14:00-16:00,2,High,PHYL201,Lab
+AD,Thursday,P6,Applied Physics,Mr. Rahul,V-02-01,16:00-17:00,1,High,BSC101,Theory
+AD,Tuesday,P1,Computer Lab,Mrs. Sneha,X-COM-1,09:00-11:00,2,High,COMPL201,Lab
+AD,Tuesday,P4,Statistics,Mrs. Kavya,V-03-04,14:00-15:00,1,High,BSC210,Theory
+AD,Wednesday,P6,Environmental Science,Dr. Meera,V-01-04,16:00-17:00,1,Medium,BSC130,Theory
+AH,Friday,P4,Surveying,Mrs. Priya,SR-04-02,14:00-15:00,1,High,CIV210,Theory
+AH,Friday,P5,Construction Management,Mr. Arjun,SR-03-01,15:00-16:00,1,Medium,CIV330,Theory
+AH,Friday,P6,Club Activity,Student Affairs,Club Area,16:00-17:00,1,Mandatory,CLUB-AH,Club
+AH,Monday,P3,Structural Analysis,Mrs. Priya,SR-01-01,12:00-13:00,1,High,CIV301,Theory
+AH,Monday,P6,Geotechnical Engineering,Mr. Arjun,SR-04-02,16:00-17:00,1,High,CIV320,Theory
+AH,Thursday,P1,Physics Lab,Mr. Vivek,X-PHY-1,09:00-11:00,2,High,PHYL501,Lab
+AH,Thursday,P6,Geotechnical Engineering,Mr. Arjun,SR-01-01,16:00-17:00,1,High,CIV320,Theory
+AH,Tuesday,P1,Computer Lab,Dr. Rohan,X-COM-2,09:00-11:00,2,High,COMPL501,Lab
+AH,Tuesday,P5,Structural Analysis,Mr. Arjun,SR-02-01,15:00-16:00,1,High,CIV301,Theory
+AH,Wednesday,P1,Surveying,Dr. Ananya,V-03-02,09:00-10:00,1,High,CIV210,Theory
+AH,Wednesday,P4,Chemistry Lab,Mr. Vivek,X-CHE-3,14:00-16:00,2,High,CHEML501,Lab
+AA,Friday,P2,Data Structures,Dr. Meera,V-02-04,10:00-11:00,1,High,CSE201,Theory
+AA,Friday,P4,Computer Lab,Dr. Rohan,X-COM-3,14:00-16:00,2,High,COMPL101,Lab
+AA,Friday,P6,Club Activity,Student Affairs,Club Area,16:00-17:00,1,Mandatory,CLUB-AA,Club
+AA,Monday,P6,Data Structures,Mrs. Harsha,SR-04-03,16:00-17:00,1,High,CSE201,Theory
+AA,Thursday,P1,Discrete Mathematics,Mr. Aditya,V-04-01,09:00-10:00,1,High,MAT110,Theory
+AA,Thursday,P2,Programming Fundamentals,Mr. Aditya,V-01-03,10:00-11:00,1,High,CSE101,Theory
+AA,Thursday,P3,Programming Fundamentals,Mr. Aditya,SR-04-03,12:00-13:00,1,High,CSE101,Theory
+AA,Thursday,P5,Physics Lab,Dr. Ananya,X-PHY-2,15:00-17:00,2,High,PHYL101,Lab
+AA,Tuesday,P1,Web Development,Mrs. Harsha,V-02-03,09:00-10:00,1,Medium,CSE150,Theory
+AA,Tuesday,P6,Discrete Mathematics,Dr. Meera,SR-03-02,16:00-17:00,1,High,MAT110,Theory
+AA,Wednesday,P1,Chemistry Lab,Mrs. Sneha,X-CHE-1,09:00-11:00,2,High,CHEML101,Lab
+AB,Friday,P5,Discrete Mathematics,Mr. Aditya,SR-04-01,15:00-16:00,1,High,MAT110,Theory
+AB,Friday,P6,Club Activity,Student Affairs,Club Area,16:00-17:00,1,Mandatory,CLUB-AB,Club
+AB,Monday,P5,Physics Lab,Mr. Vivek,X-PHY-1,15:00-17:00,2,High,PHYL301,Lab
+AB,Thursday,P1,Discrete Mathematics,Dr. Meera,SR-04-03,09:00-10:00,1,High,MAT110,Theory
+AB,Thursday,P5,Web Development,Mrs. Harsha,SR-02-04,15:00-16:00,1,Medium,CSE150,Theory
+AB,Thursday,P6,Data Structures,Dr. Meera,SR-01-02,16:00-17:00,1,High,CSE201,Theory
+AB,Tuesday,P3,Programming Fundamentals,Mrs. Harsha,SR-02-04,12:00-13:00,1,High,CSE101,Theory
+AB,Tuesday,P5,Chemistry Lab,Mrs. Sneha,X-CHE-3,15:00-17:00,2,High,CHEML301,Lab
+AB,Wednesday,P1,Computer Lab,Mrs. Sneha,X-COM-2,09:00-11:00,2,High,COMPL301,Lab
+AB,Wednesday,P3,Programming Fundamentals,Mrs. Harsha,SR-01-03,12:00-13:00,1,High,CSE101,Theory
+AB,Wednesday,P5,Data Structures,Dr. Meera,SR-01-01,15:00-16:00,1,High,CSE201,Theory
+AC,Friday,P1,Signals and Systems,Mr. Rahul,SR-03-04,09:00-10:00,1,High,ECE220,Theory
+AC,Friday,P3,Embedded Systems,Dr. Meera,V-01-04,12:00-13:00,1,Medium,ECE250,Theory
+AC,Friday,P4,Signals and Systems,Mr. Rahul,V-04-01,14:00-15:00,1,High,ECE220,Theory
+AC,Friday,P5,Circuit Theory,Dr. Meera,SR-04-02,15:00-16:00,1,High,ECE101,Theory
+AC,Friday,P6,Club Activity,Student Affairs,Club Area,16:00-17:00,1,Mandatory,CLUB-AC,Club
+AC,Thursday,P1,Computer Lab,Mrs. Sneha,X-COM-2,09:00-11:00,2,High,COMPL101,Lab
+AC,Thursday,P3,Digital Electronics,Dr. Meera,V-01-01,12:00-13:00,1,High,ECE201,Theory
+AC,Thursday,P4,Chemistry Lab,Mr. Vivek,X-CHE-2,14:00-16:00,2,High,CHEML101,Lab
+AC,Wednesday,P2,Digital Electronics,Mr. Rahul,SR-03-03,10:00-11:00,1,High,ECE201,Theory
+AC,Wednesday,P3,Circuit Theory,Dr. Meera,V-04-02,12:00-13:00,1,High,ECE101,Theory
+AC,Wednesday,P4,Physics Lab,Mr. Vivek,X-PHY-1,14:00-16:00,2,High,PHYL101,Lab
+AF,Friday,P4,Engineering Mathematics,Mrs. Kavya,V-03-04,14:00-15:00,1,Medium,MAT120,Theory
+AF,Friday,P6,Club Activity,Student Affairs,Club Area,16:00-17:00,1,Mandatory,CLUB-AF,Club
+AF,Monday,P2,Electrical Machines,Dr. Nikhil,V-03-02,10:00-11:00,1,High,EEE201,Theory
+AF,Monday,P5,Computer Lab,Mrs. Sneha,X-COM-3,15:00-17:00,2,High,COMPL301,Lab
+AF,Thursday,P3,Control Systems,Mr. Arjun,V-03-02,12:00-13:00,1,High,EEE230,Theory
+AF,Thursday,P5,Electrical Machines,Dr. Nikhil,SR-04-03,15:00-16:00,1,High,EEE201,Theory
+AF,Thursday,P6,Power Systems,Dr. Nikhil,SR-04-01,16:00-17:00,1,High,EEE220,Theory
+AF,Tuesday,P1,Chemistry Lab,Mrs. Sneha,X-CHE-3,09:00-11:00,2,High,CHEML301,Lab
+AF,Tuesday,P6,Power Systems,Mr. Arjun,SR-03-04,16:00-17:00,1,High,EEE220,Theory
+AF,Wednesday,P1,Physics Lab,Mr. Vivek,X-PHY-2,09:00-11:00,2,High,PHYL301,Lab
+AF,Wednesday,P6,Control Systems,Mrs. Kavya,SR-04-02,16:00-17:00,1,High,EEE230,Theory
+AI,Friday,P1,Machine Design,Mrs. Priya,SR-04-01,09:00-10:00,1,High,MEC310,Theory
+AI,Friday,P4,Physics Lab,Dr. Ananya,X-PHY-2,14:00-16:00,2,High,PHYL301,Lab
+AI,Friday,P6,Club Activity,Student Affairs,Club Area,16:00-17:00,1,Mandatory,CLUB-AI,Club
+AI,Monday,P1,Chemistry Lab,Mrs. Sneha,X-CHE-3,09:00-11:00,2,High,CHEML301,Lab
+AI,Monday,P4,Fluid Mechanics,Dr. Ananya,SR-03-02,14:00-15:00,1,High,MEC220,Theory
+AI,Monday,P5,Machine Design,Mrs. Priya,SR-04-01,15:00-16:00,1,High,MEC310,Theory
+AI,Thursday,P6,Manufacturing Process,Dr. Ananya,V-04-02,16:00-17:00,1,Medium,MEC230,Theory
+AI,Tuesday,P5,Computer Lab,Mrs. Sneha,X-COM-1,15:00-17:00,2,High,COMPL301,Lab
+AI,Wednesday,P2,Thermodynamics,Dr. Ananya,SR-02-02,10:00-11:00,1,High,MEC201,Theory
+AI,Wednesday,P4,Thermodynamics,Dr. Ananya,V-03-02,14:00-15:00,1,High,MEC201,Theory
+AI,Wednesday,P6,Fluid Mechanics,Dr. Ananya,V-02-01,16:00-17:00,1,High,MEC220,Theory
+AG,Friday,P1,Chemistry Lab,Mrs. Sneha,X-CHE-1,09:00-11:00,2,High,CHEML101,Lab
+AG,Friday,P3,International Relations,Mr. Arjun,V-03-04,12:00-13:00,1,Medium,POL220,Theory
+AG,Friday,P4,Physics Lab,Mr. Vivek,X-PHY-1,14:00-16:00,2,High,PHYL101,Lab
+AG,Friday,P6,Club Activity,Student Affairs,Club Area,16:00-17:00,1,Mandatory,CLUB-AG,Club
+AG,Monday,P6,Public Administration,Dr. Nikhil,V-03-03,16:00-17:00,1,High,POL210,Theory
+AG,Thursday,P1,Political Theory,Mr. Arjun,SR-03-04,09:00-10:00,1,High,POL101,Theory
+AG,Thursday,P2,Political Theory,Dr. Nikhil,V-01-04,10:00-11:00,1,High,POL101,Theory
+AG,Thursday,P3,Indian Constitution,Mr. Arjun,SR-02-04,12:00-13:00,1,High,POL102,Theory
+AG,Tuesday,P4,Indian Constitution,Mr. Arjun,V-04-03,14:00-15:00,1,High,POL102,Theory
+AG,Tuesday,P6,Public Administration,Dr. Nikhil,V-04-01,16:00-17:00,1,High,POL210,Theory
+AG,Wednesday,P5,Computer Lab,Mrs. Sneha,X-COM-3,15:00-17:00,2,High,COMPL101,Lab

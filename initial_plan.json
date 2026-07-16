@@ -1,0 +1,452 @@
+[
+  {
+    "slot": 19,
+    "room": 2,
+    "instructor": "CSE-F01"
+  },
+  {
+    "slot": 20,
+    "room": 30,
+    "instructor": "CSE-F01"
+  },
+  {
+    "slot": 25,
+    "room": 7,
+    "instructor": "CSE-F03"
+  },
+  {
+    "slot": 5,
+    "room": 30,
+    "instructor": "CSE-F02"
+  },
+  {
+    "slot": 11,
+    "room": 25,
+    "instructor": "CSE-F03"
+  },
+  {
+    "slot": 18,
+    "room": 12,
+    "instructor": "CSE-F01"
+  },
+  {
+    "slot": 6,
+    "room": 6,
+    "instructor": "CSE-F02"
+  },
+  {
+    "slot": 22,
+    "room": 33,
+    "instructor": "PHY-F01"
+  },
+  {
+    "slot": 12,
+    "room": 35,
+    "instructor": "CHEM-F02"
+  },
+  {
+    "slot": 27,
+    "room": 40,
+    "instructor": "COMP-F02"
+  },
+  {
+    "slot": 8,
+    "room": 23,
+    "instructor": "CSE-F02"
+  },
+  {
+    "slot": 14,
+    "room": 18,
+    "instructor": "CSE-F02"
+  },
+  {
+    "slot": 16,
+    "room": 16,
+    "instructor": "CSE-F03"
+  },
+  {
+    "slot": 23,
+    "room": 17,
+    "instructor": "CSE-F03"
+  },
+  {
+    "slot": 28,
+    "room": 28,
+    "instructor": "CSE-F01"
+  },
+  {
+    "slot": 18,
+    "room": 30,
+    "instructor": "CSE-F03"
+  },
+  {
+    "slot": 22,
+    "room": 23,
+    "instructor": "CSE-F02"
+  },
+  {
+    "slot": 4,
+    "room": 32,
+    "instructor": "PHY-F02"
+  },
+  {
+    "slot": 10,
+    "room": 37,
+    "instructor": "CHEM-F02"
+  },
+  {
+    "slot": 12,
+    "room": 39,
+    "instructor": "COMP-F01"
+  },
+  {
+    "slot": 28,
+    "room": 29,
+    "instructor": "ECE-F02"
+  },
+  {
+    "slot": 14,
+    "room": 13,
+    "instructor": "ECE-F02"
+  },
+  {
+    "slot": 20,
+    "room": 0,
+    "instructor": "ECE-F02"
+  },
+  {
+    "slot": 13,
+    "room": 26,
+    "instructor": "ECE-F03"
+  },
+  {
+    "slot": 27,
+    "room": 12,
+    "instructor": "ECE-F03"
+  },
+  {
+    "slot": 24,
+    "room": 27,
+    "instructor": "ECE-F03"
+  },
+  {
+    "slot": 26,
+    "room": 3,
+    "instructor": "ECE-F02"
+  },
+  {
+    "slot": 15,
+    "room": 32,
+    "instructor": "PHY-F02"
+  },
+  {
+    "slot": 21,
+    "room": 36,
+    "instructor": "CHEM-F01"
+  },
+  {
+    "slot": 18,
+    "room": 39,
+    "instructor": "COMP-F01"
+  },
+  {
+    "slot": 25,
+    "room": 10,
+    "instructor": "BSC-F02"
+  },
+  {
+    "slot": 23,
+    "room": 4,
+    "instructor": "BSC-F02"
+  },
+  {
+    "slot": 0,
+    "room": 20,
+    "instructor": "BSC-F03"
+  },
+  {
+    "slot": 2,
+    "room": 25,
+    "instructor": "BSC-F03"
+  },
+  {
+    "slot": 9,
+    "room": 11,
+    "instructor": "BSC-F03"
+  },
+  {
+    "slot": 5,
+    "room": 19,
+    "instructor": "BSC-F03"
+  },
+  {
+    "slot": 17,
+    "room": 3,
+    "instructor": "BSC-F01"
+  },
+  {
+    "slot": 21,
+    "room": 34,
+    "instructor": "PHY-F02"
+  },
+  {
+    "slot": 27,
+    "room": 37,
+    "instructor": "CHEM-F01"
+  },
+  {
+    "slot": 6,
+    "room": 38,
+    "instructor": "COMP-F01"
+  },
+  {
+    "slot": 6,
+    "room": 28,
+    "instructor": "BBA-F01"
+  },
+  {
+    "slot": 12,
+    "room": 12,
+    "instructor": "BBA-F02"
+  },
+  {
+    "slot": 27,
+    "room": 3,
+    "instructor": "BBA-F02"
+  },
+  {
+    "slot": 1,
+    "room": 23,
+    "instructor": "BBA-F03"
+  },
+  {
+    "slot": 10,
+    "room": 10,
+    "instructor": "BBA-F03"
+  },
+  {
+    "slot": 3,
+    "room": 22,
+    "instructor": "BBA-F03"
+  },
+  {
+    "slot": 0,
+    "room": 22,
+    "instructor": "BBA-F01"
+  },
+  {
+    "slot": 15,
+    "room": 33,
+    "instructor": "PHY-F01"
+  },
+  {
+    "slot": 18,
+    "room": 35,
+    "instructor": "CHEM-F01"
+  },
+  {
+    "slot": 24,
+    "room": 38,
+    "instructor": "COMP-F02"
+  },
+  {
+    "slot": 1,
+    "room": 9,
+    "instructor": "EEE-F02"
+  },
+  {
+    "slot": 22,
+    "room": 30,
+    "instructor": "EEE-F02"
+  },
+  {
+    "slot": 23,
+    "room": 28,
+    "instructor": "EEE-F02"
+  },
+  {
+    "slot": 11,
+    "room": 27,
+    "instructor": "EEE-F03"
+  },
+  {
+    "slot": 17,
+    "room": 29,
+    "instructor": "EEE-F01"
+  },
+  {
+    "slot": 20,
+    "room": 9,
+    "instructor": "EEE-F03"
+  },
+  {
+    "slot": 27,
+    "room": 11,
+    "instructor": "EEE-F01"
+  },
+  {
+    "slot": 12,
+    "room": 33,
+    "instructor": "PHY-F02"
+  },
+  {
+    "slot": 6,
+    "room": 37,
+    "instructor": "CHEM-F02"
+  },
+  {
+    "slot": 4,
+    "room": 40,
+    "instructor": "COMP-F01"
+  },
+  {
+    "slot": 18,
+    "room": 27,
+    "instructor": "POL-F02"
+  },
+  {
+    "slot": 19,
+    "room": 3,
+    "instructor": "POL-F01"
+  },
+  {
+    "slot": 9,
+    "room": 14,
+    "instructor": "POL-F02"
+  },
+  {
+    "slot": 20,
+    "room": 23,
+    "instructor": "POL-F02"
+  },
+  {
+    "slot": 11,
+    "room": 12,
+    "instructor": "POL-F01"
+  },
+  {
+    "slot": 5,
+    "room": 10,
+    "instructor": "POL-F01"
+  },
+  {
+    "slot": 26,
+    "room": 11,
+    "instructor": "POL-F02"
+  },
+  {
+    "slot": 27,
+    "room": 32,
+    "instructor": "PHY-F02"
+  },
+  {
+    "slot": 24,
+    "room": 35,
+    "instructor": "CHEM-F02"
+  },
+  {
+    "slot": 16,
+    "room": 40,
+    "instructor": "COMP-F01"
+  },
+  {
+    "slot": 10,
+    "room": 20,
+    "instructor": "CIVIL-F01"
+  },
+  {
+    "slot": 2,
+    "room": 16,
+    "instructor": "CIVIL-F02"
+  },
+  {
+    "slot": 12,
+    "room": 9,
+    "instructor": "CIVIL-F03"
+  },
+  {
+    "slot": 27,
+    "room": 29,
+    "instructor": "CIVIL-F02"
+  },
+  {
+    "slot": 23,
+    "room": 16,
+    "instructor": "CIVIL-F01"
+  },
+  {
+    "slot": 5,
+    "room": 29,
+    "instructor": "CIVIL-F01"
+  },
+  {
+    "slot": 28,
+    "room": 24,
+    "instructor": "CIVIL-F01"
+  },
+  {
+    "slot": 18,
+    "room": 32,
+    "instructor": "PHY-F02"
+  },
+  {
+    "slot": 15,
+    "room": 37,
+    "instructor": "CHEM-F01"
+  },
+  {
+    "slot": 6,
+    "room": 39,
+    "instructor": "COMP-F02"
+  },
+  {
+    "slot": 13,
+    "room": 21,
+    "instructor": "MECH-F02"
+  },
+  {
+    "slot": 15,
+    "room": 9,
+    "instructor": "MECH-F02"
+  },
+  {
+    "slot": 3,
+    "room": 25,
+    "instructor": "MECH-F02"
+  },
+  {
+    "slot": 17,
+    "room": 4,
+    "instructor": "MECH-F02"
+  },
+  {
+    "slot": 4,
+    "room": 28,
+    "instructor": "MECH-F01"
+  },
+  {
+    "slot": 24,
+    "room": 28,
+    "instructor": "MECH-F01"
+  },
+  {
+    "slot": 23,
+    "room": 13,
+    "instructor": "MECH-F02"
+  },
+  {
+    "slot": 27,
+    "room": 33,
+    "instructor": "PHY-F01"
+  },
+  {
+    "slot": 0,
+    "room": 37,
+    "instructor": "CHEM-F02"
+  },
+  {
+    "slot": 10,
+    "room": 38,
+    "instructor": "COMP-F01"
+  }
+]
