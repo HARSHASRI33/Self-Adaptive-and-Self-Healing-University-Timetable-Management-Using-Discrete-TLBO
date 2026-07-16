@@ -87,6 +87,6 @@ The system generates:
 Self-Adaptive and Self-Healing University Timetable Management Using Discrete Teaching-Learning-Based Optimization
 
 ## Author
-**Harsha Sri Eluri
-Department of Computer Science and Engineering
+**Harsha Sri Eluri,
+Department of Computer Science and Engineering-
 SRM University AP, Amaravati, India
