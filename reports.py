@@ -1,5 +1,5 @@
 """CSV and department/section reports in the requested column order."""
-from collections import defaultdict
+from collections import defaultdict 
 import csv
 
 HEADERS = ["Section", "Day", "Period", "Course", "Faculty", "Room", "Time", "Hours", "Priority", "SubjectID", "Type"]
