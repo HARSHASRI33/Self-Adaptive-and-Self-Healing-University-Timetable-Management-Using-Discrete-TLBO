@@ -1,4 +1,4 @@
-"""Synthetic data for a 510-student university timetable."""
+"""Synthetic data for a 510-student university timetable. """
 from dataclasses import dataclass
 
 @dataclass(frozen=True)
